@@ -1,0 +1,18 @@
+
+p{
+    color: brown;
+    text-align: center;
+}
+
+.card{
+width: 300px;
+border: 2px solid#333;
+padding: 15px;
+border-radius: 10px;
+background-color: lightblue;
+margin: 50px auto;
+}
+.button{
+
+    text-align: left;
+}
